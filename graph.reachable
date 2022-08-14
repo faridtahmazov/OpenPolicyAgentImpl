@@ -1,0 +1,7 @@
+{
+  "alice": ["bob", "john"],
+  "bob": ["carol", "david"],
+  "carol": [],
+  "david": [],
+  "farid": []
+}

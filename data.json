@@ -1,0 +1,7 @@
+[
+  {"name": "alice", "subordinates": []},
+  {"name": "farid", "subordinates": ["carol", "david"]},
+  {"name": "carol", "subordinates": []},
+  {"name": "david", "subordinates": []},
+  {"name": "bob", "subordinates": []}
+]
